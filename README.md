@@ -1,5 +1,5 @@
 # info-sec-website
-iep challenges 1 website
+IEP Challenges 1 Website
 
 Team 10
 
